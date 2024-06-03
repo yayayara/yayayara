@@ -30,6 +30,7 @@ body {
 .sidebar ul li {
     padding: 8px;
     text-align: center;
+    position: relative;
 }
 
 .sidebar ul li a {
@@ -40,6 +41,10 @@ body {
 
 .sidebar ul li a:hover {
     background-color: #0033a0;
+}
+
+.sidebar ul li a:visited {
+    color: white;
 }
 
 .dropdown-content {
