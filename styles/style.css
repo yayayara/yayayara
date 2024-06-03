@@ -40,7 +40,8 @@ body {
 }
 
 .sidebar ul li a:hover {
-    background-color: #0033a0;
+    text-decoration: underline;
+    background-color: transparent;
 }
 
 .sidebar ul li a:visited {
