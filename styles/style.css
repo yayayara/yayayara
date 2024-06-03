@@ -12,7 +12,8 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #0057e7;
+    background: url('../img/backgroundMenu.jpg') no-repeat center center;
+    background-size: cover;
     padding-top: 20px;
 }
 
